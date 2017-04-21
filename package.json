@@ -1,0 +1,27 @@
+{
+  "name": "jwt-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for jsonwebtoken as promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelitocs/jwt-wrapper.git"
+  },
+  "keywords": [
+    "jsonwebtoken",
+    "jwt",
+    "promise"
+  ],
+  "author": "Marcelito Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelitocs/jwt/issues"
+  },
+  "homepage": "https://github.com/marcelitocs/jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.3.0"
+  }
+}
